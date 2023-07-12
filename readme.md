@@ -1,4 +1,4 @@
-# representational-alignment [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-representational-alignment [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of representational alignment papers, projects, and presentations
 
