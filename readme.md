@@ -5,25 +5,37 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Measuring Representational Alignment](#Measuring-Representational-Alignment)
+- [Increasing Representational Alignment](#Increasing-Representational-Alignment)
+- [Implications of Representational (Mis)Alignment](#Implications-of-Representational-(Mis)Alignment)
+- [Representational Alignment of X and Y](#Representational-Alignment-of-X-and-Y)
+- [Conferences, Workshops, and Symposia](#Conferences,-Workshops,-and-Symposia)
 
 
-## Section
+## Measuring Representational Alignment
 
-About this section. Optional. Keep this short and focus on the list.
-
+- [Alignment with human representations supports robust few-shot learning](https://arxiv.org/abs/2301.11990)
 - [List item](http://example.com)
-- [List item](http://example.com)
 
 
-## Another Section
+## Increasing Representational Alignment
 
 ### Subsection
 
 - [List item](http://example.com)
 - [List item](http://example.com)
 
+## Implications of Representational (Mis)Alignment
+
+
+## Representational Alignment of X and Y
+### Humans and Machines
+
+### Humans and Humans
+
+### Machines and Machines
+
+## Conferences, Workshops, and Symposia
 
 ## Contribute
 
