@@ -1,6 +1,6 @@
 # awesome-representational-alignment [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of representational alignment papers, projects, and presentations
+> A curated list of representational alignment papers, projects, and presentations.
 
 
 ## Contents
@@ -52,6 +52,7 @@
 ## Conferences, Workshops, and Symposia
 - [CHAI 2023 (Session on Human Cognition)](https://humancompatible.ai/chai2023/)
 - [Neuromonster: Mathematics Of Neuroscience (Session on Representational Alignment)](https://www.neuromonster.org/)
+- [First Representational Alignment Workshop](https://representational-alignment.github.io/)
 
 ## Contribute
 
