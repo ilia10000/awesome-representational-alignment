@@ -24,6 +24,8 @@
 - [Extracting Low-Dimensional Psychological Representations from Convolutional Neural Networks](https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.13226)
 - [Human alignment of neural network representations](https://openreview.net/forum?id=ReDQ1OUQR0X)
 - [Pointwise Representational Similarity](https://arxiv.org/abs/2305.19294)
+- [Is my "red" your "red"?: Unsupervised alignment of qualia structures via optimal transport](https://psyarxiv.com/h3pqm)
+- [What can 1.8 billion regressions tell us about the pressures shaping high-level visual representation in brains and machines?](https://www.biorxiv.org/content/10.1101/2022.03.28.485868v2)
 
 
 ## Increasing Representational Alignment
