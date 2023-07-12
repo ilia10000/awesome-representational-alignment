@@ -1,6 +1,6 @@
 # representational-alignment [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> representational alignment papers
+> A curated list of representational alignment papers, projects, and presentations
 
 
 ## Contents
