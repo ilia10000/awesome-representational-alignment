@@ -9,7 +9,7 @@
 - [Increasing Representational Alignment](#Increasing-Representational-Alignment)
 - [Implications of Representational (Mis)Alignment](#Implications-of-Representational-(Mis)Alignment)
 - [Representational Alignment of X and Y](#Representational-Alignment-of-X-and-Y)
-- [Conferences, Workshops, and Symposia](#Conferences,-Workshops,-and-Symposia)
+- [Conferences, Workshops, and Symposia](#Conferences-Workshops-and-Symposia)
 
 
 ## Measuring Representational Alignment
