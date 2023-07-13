@@ -31,7 +31,7 @@
 ## Increasing Representational Alignment
 
 - [Evaluating (and Improving) the Correspondence Between Deep Neural Networks and Human Representations](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12670)
-- [Improving neural network representations using human similarity judgments](https://arxiv.org/abs/2306.04507)
+- [Human alignment of neural network representations](https://openreview.net/forum?id=ReDQ1OUQR0X)
 - [Harmonizing the object recognition strategies of deep neural networks with humans](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3d681cc4487b97c08e5aa67224dd74f2-Abstract-Conference.html)
 - [Training language models to summarize narratives improves brain alignment](https://arxiv.org/abs/2212.10898)
 
@@ -39,6 +39,7 @@
 
 - [System alignment supports cross-domain learning and zero-shot generalisation](https://www.sciencedirect.com/science/article/pii/S0010027722001883)
 - [Alignment with human representations supports robust few-shot learning](https://arxiv.org/abs/2301.11990)
+- [Improving neural network representations using human similarity judgments](https://arxiv.org/abs/2306.04507)
 
 
 ## Representational Alignment of X and Y
