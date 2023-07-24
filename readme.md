@@ -27,13 +27,13 @@
 - [Is my "red" your "red"?: Unsupervised alignment of qualia structures via optimal transport](https://psyarxiv.com/h3pqm)
 - [What can 1.8 billion regressions tell us about the pressures shaping high-level visual representation in brains and machines?](https://www.biorxiv.org/content/10.1101/2022.03.28.485868v2)
 
-
 ## Increasing Representational Alignment
 
 - [Evaluating (and Improving) the Correspondence Between Deep Neural Networks and Human Representations](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12670)
 - [Human alignment of neural network representations](https://openreview.net/forum?id=ReDQ1OUQR0X)
 - [Harmonizing the object recognition strategies of deep neural networks with humans](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3d681cc4487b97c08e5aa67224dd74f2-Abstract-Conference.html)
 - [Training language models to summarize narratives improves brain alignment](https://arxiv.org/abs/2212.10898)
+- [Transforming Neural Network Visual Representations to Predict Human Judgments of Similarity](https://arxiv.org/abs/2010.06512)
 
 ## Implications of Representational (Mis)Alignment
 
@@ -44,6 +44,8 @@
 
 ## Representational Alignment of X and Y
 ### Humans and Machines
+
+- [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1711.11279)
 
 ### Humans and Humans
 
